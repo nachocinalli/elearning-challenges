@@ -1,6 +1,6 @@
 # December 2024 eLearning Challenge: Assisting Customers with Lost & Delayed Holiday Orders
 
-[Live demo ✨](https://elearningacademy.vercel.app/12-2024/fedpak-course/)
+[Live demo](https://elearningacademy.vercel.app/12-2024/fedpak-course/) ✨
 
 La comunidad de [Elearning academy](https://community.elearningacademy.io/c/design-challenges/) prepara cada mes un desafío dónde se puede participar y compartir un proyecto junto a otros colegas.
 
