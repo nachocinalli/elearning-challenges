@@ -1,5 +1,7 @@
 # December 2024 eLearning Challenge: Assisting Customers with Lost & Delayed Holiday Orders
 
+[Live demo ✨](https://elearningacademy.vercel.app/12-2024/fedpak-course/)
+
 La comunidad de [Elearning academy](https://community.elearningacademy.io/c/design-challenges/) prepara cada mes un desafío dónde se puede participar y compartir un proyecto junto a otros colegas.
 
 Si bien la mayoría de los proyectos se realizan con herramientas de autor conocidas, principalmente la suite de [Articulate](https://www.articulate.com/), me propuse realizar el reto usando el [framework de adaptlearning](https://github.com/adaptlearning/adapt_framework/).
